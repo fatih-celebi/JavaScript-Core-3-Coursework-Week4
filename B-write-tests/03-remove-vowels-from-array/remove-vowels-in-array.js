@@ -10,6 +10,8 @@ function removeVowelsFromWords(words) {
 
 module.exports = removeVowelsFromWords;
 
+console.log(removeVowels("adana"));
+
 /*
     input: ["Irina", "Etza", "Daniel"]
     expected output: ["rn", "tz", "Dnl"]
